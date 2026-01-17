@@ -1,16 +1,17 @@
 # SLA-Breach-Risk-Cost-Impact-Analysis-SQL-and-Power-BI
 
 1. Project Title:
+
    SLA Breach & Cost Impact Analysis
 
-2. Project Overview:
+3. Project Overview:
    This project analyzes Service Level Agreement (SLA) performance across large-scale e-commerce order data to identify delivery delays, quantify their financial      impact, and uncover the operational root causes behind SLA breaches. Using SQL and Power BI, the project converts raw transactional data into actionable            insights that help businesses proactively manage delivery risk, reduce delay-related costs, and improve customer experience.
    The analysis focuses not only on how often SLA breaches occur, but where, why, and at what cost, enabling data-driven decision-making for operations, logistics,    and seller management teams.
 
-3. Short Description:
+4. Short Description:
    An end-to-end analytics project that evaluates SLA breach rates, delay duration, and financial impact across product categories, seller states, and time            periods, supported by an interactive Power BI dashboard designed for operational monitoring and root-cause analysis.
 
-4. Project Goals:
+5. Project Goals:
    •	Measure overall SLA performance and identify breach patterns
    •	Quantify the financial impact of delivery delays
    •	Detect high-risk product categories and seller regions
