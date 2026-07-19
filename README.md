@@ -6,7 +6,7 @@
 
 2. Project Overview:
 
-  This project analyzes Service Level Agreement (SLA) performance across e-commerce order data to identify delivery delays, quantify their financial impact,    and uncover the operational root causes behind SLA breaches. Using SQL and Power BI, the project converts raw transactional data into actionable insights     that help businesses proactively manage delivery risk, reduce delay-related costs, and improve customer experience. The analysis focuses not only on how      often SLA breaches occur, but where, why, and at what cost — enabling data-driven decision-making for operations, logistics, and seller management teams.
+    This project analyzes Service Level Agreement (SLA) performance across e-commerce order data to identify delivery delays, quantify their financial            impact, and uncover the operational root causes behind SLA breaches. Using SQL and Power BI, the project converts raw transactional data into actionable      insights that help businesses proactively manage delivery risk, reduce delay-related costs, and improve customer experience. The analysis focuses not         only on how often SLA breaches occur, but where, why, and at what cost — enabling data-driven decision-making for operations, logistics, and seller           management teams.
 
 3. Short Description:
 
@@ -14,31 +14,31 @@
 
 4. Project Goals:
 
-  • Measure overall SLA performance and identify breach patterns
+    • Measure overall SLA performance and identify breach patterns
  
-  • Quantify the financial impact of delivery delays
+    • Quantify the financial impact of delivery delays
  
-  • Detect high-risk product categories and seller regions
+    • Detect high-risk product categories and seller regions
   
-  • Enable proactive risk monitoring for emerging problem areas
+    • Enable proactive risk monitoring for emerging problem areas
  
-  • Translate data insights into actionable operational recommendations
+    • Translate data insights into actionable operational recommendations
 
 5. Key KPIs Showcased:
  
- • Total Orders Analyzed
+   • Total Orders Analyzed
  
- • SLA Breach Rate (%)
+   • SLA Breach Rate (%)
 
- • SLA Breached Orders (Count)
+   • SLA Breached Orders (Count)
  
- • SLA Variance (%) — actual breach rate vs. a defined 5% target
- 
- • Average Delay (Days) for Breached Orders
+   • SLA Variance (%) — actual breach rate vs. a defined 5% target
+  
+   • Average Delay (Days) for Breached Orders
 
- • Total Delay Cost (₹)
+   • Total Delay Cost (₹)
 
- • SLA Risk Score — a combined frequency × severity metric used to rank seller-state risk
+   • SLA Risk Score — a combined frequency × severity metric used to rank seller-state risk
   
 6. Tools & Technologies:
  
